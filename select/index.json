@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "コロンブス (Live)",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-01T09:52:06.718603Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コロンブス - Columbus",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_コロンブス_-_Columbus_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コロンブス",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_コロンブス_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コロンブスの卵",
+      "artist": "とんねるず",
+      "has_synced": false,
+      "path": "select/pl_01_コロンブスの卵_とんねるず.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Columbus",
+      "artist": "とんねるず",
+      "has_synced": false,
+      "path": "select/pl_02_Columbus_とんねるず.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "コロンブス",
+      "artist": "とんねるず",
+      "has_synced": false,
+      "path": "select/pl_03_コロンブス_とんねるず.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "コロンブス",
+      "artist": "とんねるず",
+      "has_synced": false,
+      "path": "select/pl_04_コロンブス_とんねるず.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "コロンブス",
+      "artist": "とんねるず",
+      "has_synced": false,
+      "path": "select/pl_05_コロンブス_とんねるず.txt"
+    }
+  ]
+}
