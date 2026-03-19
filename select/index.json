@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "コロンブス (Live)",
+  "base_track": "コロンブス",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2025-12-01T09:52:06.718603Z",
+  "createdAt": "2026-03-19T05:49:11.192024Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -23,42 +23,37 @@
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "コロンブスの卵",
-      "artist": "とんねるず",
-      "has_synced": false,
-      "path": "select/pl_01_コロンブスの卵_とんねるず.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "Columbus",
-      "artist": "とんねるず",
-      "has_synced": false,
-      "path": "select/pl_02_Columbus_とんねるず.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
       "title": "コロンブス",
-      "artist": "とんねるず",
+      "artist": "Mrs. GREEN APPLE",
       "has_synced": false,
-      "path": "select/pl_03_コロンブス_とんねるず.txt"
+      "path": "select/pl_01_コロンブス_Mrs._GREEN_APPLE.txt"
     },
     {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
+      "id": "localdb_1",
+      "source": "localdb",
       "title": "コロンブス",
-      "artist": "とんねるず",
+      "artist": "Mrs. GREEN APPLE",
       "has_synced": false,
-      "path": "select/pl_04_コロンブス_とんねるず.txt"
+      "path": "select/localdb_01_コロンブス_Mrs._GREEN_APPLE.txt",
+      "repo_name": "z6x_Xk0WFko"
     },
     {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
+      "id": "localdb_2",
+      "source": "localdb",
       "title": "コロンブス",
-      "artist": "とんねるず",
-      "has_synced": false,
-      "path": "select/pl_05_コロンブス_とんねるず.txt"
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/localdb_02_コロンブス_Mrs._GREEN_APPLE.lrc",
+      "repo_name": "4OlfR6OR_iI"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "コロンブス",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/localdb_03_コロンブス_Mrs._GREEN_APPLE.lrc",
+      "repo_name": "JizcHOTJgaA"
     }
   ]
 }
