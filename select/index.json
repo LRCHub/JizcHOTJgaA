@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "コロンブス",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2026-03-19T05:49:11.192024Z",
+  "createdAt": "2026-03-19T07:48:53.465123Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,16 +35,16 @@
       "artist": "Mrs. GREEN APPLE",
       "has_synced": false,
       "path": "select/localdb_01_コロンブス_Mrs._GREEN_APPLE.txt",
-      "repo_name": "z6x_Xk0WFko"
+      "repo_name": "JizcHOTJgaA"
     },
     {
       "id": "localdb_2",
       "source": "localdb",
       "title": "コロンブス",
       "artist": "Mrs. GREEN APPLE",
-      "has_synced": true,
-      "path": "select/localdb_02_コロンブス_Mrs._GREEN_APPLE.lrc",
-      "repo_name": "4OlfR6OR_iI"
+      "has_synced": false,
+      "path": "select/localdb_02_コロンブス_Mrs._GREEN_APPLE.txt",
+      "repo_name": "z6x_Xk0WFko"
     },
     {
       "id": "localdb_3",
@@ -53,7 +53,7 @@
       "artist": "Mrs. GREEN APPLE",
       "has_synced": true,
       "path": "select/localdb_03_コロンブス_Mrs._GREEN_APPLE.lrc",
-      "repo_name": "JizcHOTJgaA"
+      "repo_name": "4OlfR6OR_iI"
     }
   ]
 }
